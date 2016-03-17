@@ -1,0 +1,20 @@
+body {
+  background-color: #f5f5f5;
+}
+
+#logo {
+  max-width: 125px;
+  max-height: auto;
+  padding-top: 15px;
+}
+.sidebar {
+
+}
+
+ul {
+  padding-top: 5%;
+}
+
+#first-height {
+  padding-top: 25px;
+}
